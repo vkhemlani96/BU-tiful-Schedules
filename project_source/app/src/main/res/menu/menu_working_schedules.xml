@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ek307.voidbowels.buschedulemaker.activities.WorkingSchedulesActivity">
+    <!--<item android:id="@+id/action_watch" android:title="@string/watch_help_video"-->
+        <!--android:orderInCategory="100" app:showAsAction="never" />-->
+    <item android:id="@+id/action_filter" android:title="@string/filter"
+        android:orderInCategory="101" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_content_filter_list"
+        />
+</menu>

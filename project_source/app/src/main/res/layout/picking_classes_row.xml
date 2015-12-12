@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <AutoCompleteTextView
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_margin="4dp"
+        android:id="@+id/college"
+        android:inputType="textCapCharacters|textNoSuggestions"
+        android:gravity="center"
+        android:completionThreshold="1"
+        android:maxLength="3"
+        android:imeOptions="actionNext"/>
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_margin="4dp"
+        android:inputType="textCapCharacters|textNoSuggestions"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:maxLength="2"
+        android:id="@+id/dept"
+        android:imeOptions="actionNext"/>
+
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_margin="4dp"
+        android:gravity="center"
+        android:inputType="number|textNoSuggestions"
+        android:id="@+id/courseNumber"
+        android:maxLength="3"
+        android:imeOptions="actionDone"/>
+
+</LinearLayout>

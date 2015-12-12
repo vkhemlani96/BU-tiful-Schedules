@@ -1,0 +1,26 @@
+TASK com.ek307.voidbowels.buschedulemaker id=296
+  ACTIVITY com.ek307.voidbowels.buschedulemaker/.MainActivity 169f40c7 pid=18976
+    Local FragmentActivity 268e3d06 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mActivity=com.ek307.voidbowels.buschedulemaker.activities.MainActivity@268e3d06
+      mContainer=android.support.v4.app.FragmentActivity$2@39cbffc7
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{1eb4b9f4 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{2a53b51d V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{38412392 G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{217ed163 V.E..... ... 0,75-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{3c5d8160 V.E..... ... 0,0-1080,1701 #7f0c003e app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{217b8619 V.E..... ... 0,168-1080,1701 #1020002 android:id/content}
+                android.widget.RelativeLayout{34c9e6de V.E..... ... 0,0-1080,1533}
+                  android.support.v7.widget.AppCompatTextView{2c0320bf V.ED.... ... 48,48-269,105}
+              android.support.v7.internal.widget.ActionBarContainer{409538c V.ED.... ... 0,0-1080,168 #7f0c003f app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{39b56ad5 V.E..... ... 0,0-1080,168 #7f0c0040 app:id/action_bar}
+                  android.widget.TextView{e8992ea V.ED.... ... 48,43-569,124}
+                  android.support.v7.widget.ActionMenuView{265309db V.E..... ... 960,0-1080,168}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{18be1c78 VFED..C. ... 0,12-120,156}
+                android.support.v7.internal.widget.ActionBarContextView{326edf51 G.E..... ... 0,0-0,0 #7f0c0041 app:id/action_context_bar}
+        android.view.View{ae5f3b6 V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
+        android.view.View{28ee68b7 V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}

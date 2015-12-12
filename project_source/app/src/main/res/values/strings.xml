@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BU-tiful Schedules</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_working_schedules">WorkingSchedulesActivity</string>
+    <string name="title_activity_detailed_schedule">DetailedSchedule</string>
+    <string name="how_many_classes">How many classes do you want to register for?</string>
+    <string name="how_many_classes_hint">ex. 4</string>
+    <string name="go">GO!</string>
+    <string name="filter">Filter</string>
+    <string name="enter_classes">Enter your classes here:</string>
+    <string name="watch_help_video">Watch Help Video</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+</resources>

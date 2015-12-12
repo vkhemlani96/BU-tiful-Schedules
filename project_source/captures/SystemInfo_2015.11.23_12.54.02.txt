@@ -1,0 +1,34 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        379642e7 com.ek307.voidbowels.buschedulemaker/.MainActivity
+
+Key Set Manager:
+  [com.ek307.voidbowels.buschedulemaker]
+      Signing KeySets: 8
+
+Packages:
+  Package [com.ek307.voidbowels.buschedulemaker] (2b6a1656):
+    userId=10060 gids=[3003]
+    pkg=Package{19070e94 com.ek307.voidbowels.buschedulemaker}
+    codePath=/data/app/com.ek307.voidbowels.buschedulemaker-1
+    resourcePath=/data/app/com.ek307.voidbowels.buschedulemaker-1
+    legacyNativeLibraryDir=/data/app/com.ek307.voidbowels.buschedulemaker-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=22
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{28ea7d3d com.ek307.voidbowels.buschedulemaker}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.ek307.voidbowels.buschedulemaker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2015-11-23 12:53:26
+    firstInstallTime=2015-11-18 23:01:34
+    lastUpdateTime=2015-11-23 12:53:27
+    signatures=PackageSignatures{296b1aad [382e1932]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.INTERNET
